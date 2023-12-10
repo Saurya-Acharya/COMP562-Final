@@ -1,4 +1,4 @@
-# COMP562-Final
+# COMP562 Final Project: Credit Card Fraud Detection
 
 #### Saurya Acharya, Jahnavi Alapati, Saketh Devareddy, Maya Krishnamoorthy, Sheel Patel
 
